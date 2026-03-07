@@ -1,89 +1,92 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-<h3 align="center">SOC Enthusiast | AI for Security | Threat Hunter</h3>
+<h1 align="center">
+Hi 👋, I'm Pavan Kumar
+</h1>
+
+<h3 align="center">
+SOC Analyst | Threat Hunter | AI for Cybersecurity
+</h3>
 
 <p align="center">
-  <img src="https://github.com/Sriram-87/Sriram-87/blob/main/Animation_For_Image_Elements-ezgif.com-optimize.gif?raw=true" alt="Cybersecurity Animation" width="500"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Threat+Hunter;AI+for+Security;Linux+%7C+SIEM+%7C+Python"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sriram-87&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://github.com/Sriram-87/Sriram-87/blob/main/Animation_For_Image_Elements-ezgif.com-optimize.gif?raw=true" width="550"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sriram-87&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-## 🚀 Professional Profile
+# 🧑‍💻 About Me
 
-* 🔭 I’m currently working on **AI Agent**
-* 👯 I’m looking to collaborate on **Keylogger**
-* 🤝 I’m looking for help with **DNS-Poisoning-Detection-System**
-* 🤖 **Current Focus:** AI / Machine Learning for automated threat detection
-* 🛡️ **SOC Home Lab:** Suricata, Wazuh, pfSense
-* 🔍 **Log Analysis:** Regular Expressions for malware & log parsing
-* 🏆 **SIH 2023 Finalist**
-* 📫 Reach me at **[srrmpavankumar@gmail.com](mailto:srrmpavankumar@gmail.com)**
+🛡️ SOC enthusiast focused on **Threat Detection & Incident Response**
 
----
+🔎 Building **Home SOC Labs (Wazuh + Suricata + pfSense)**
 
-# 💬 Ask me about
+🤖 Exploring **AI & Machine Learning for Cybersecurity**
 
-* 🤖 **AI for Hacking:** Python automation for security workflows
-* 📊 **SIEM Operations:** Wazuh & Splunk deployment
-* 🌐 **Network Defense:** DNS poisoning detection & firewall configuration
+⚡ Passionate about **Threat Hunting & Malware Analysis**
+
+🏆 **Smart India Hackathon 2023 Finalist**
+
+📫 Contact:
+**[srrmpavankumar@gmail.com](mailto:srrmpavankumar@gmail.com)**
 
 ---
 
-# 🛠️ Security Toolkit & Languages
+# 🛠️ Security Toolkit
 
-### 🔐 Cybersecurity Tools
+## 🔐 SIEM / Detection
 
 <p>
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
 <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
 </p>
 
-### 💻 Programming Languages
+## 💻 Programming
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=c"/>
 </p>
 
-### ⚙️ DevOps / Development Tools
+## ⚙️ DevOps / Tools
 
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git,jenkins,kafka,postman"/>
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
-### 📊 Data Science & ML
+## 📊 Data Science / AI
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
 </p>
 
-### 🧪 Testing / Automation
+## 🧪 Automation
 
 <p>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=selenium"/>
 </p>
 
-### 🐧 Operating System
+## 🐧 Operating System
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
 ---
@@ -91,32 +94,60 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriram-87&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sriram-87&show_icons=true&locale=en&theme=vision-friendly-dark"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sriram-87&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-87&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-87&theme=vision-friendly-dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-87&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sriram-87&theme=matrix&column=6"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-87&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Sriram-87/Sriram-87/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pavan-kumar-malleboina/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+
+<a href="https://www.linkedin.com/in/pavan-kumar-malleboina/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.codechef.com/users/pavankuamr" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40"/>
+<a href="https://leetcode.com/u/pavanerror/">
+<img src="https://skillicons.dev/icons?i=leetcode"/>
 </a>
 
-<a href="https://www.hackerrank.com/pavankuamr" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+<a href="https://www.hackerrank.com/pavankuamr">
+<img src="https://skillicons.dev/icons?i=hackerrank"/>
 </a>
 
-<a href="https://leetcode.com/u/pavanerror/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+<a href="https://www.codechef.com/users/pavankuamr">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
 </a>
+
 </p>
