@@ -1,153 +1,61 @@
-<h1 align="center">
-Hi 👋, I'm Sree Ram
-</h1>
-
-<h3 align="center">
-SOC Analyst | Threat Hunter | AI for Cybersecurity
-</h3>
+<h1 align="center">Sree Ram</h1>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;SOC+Analyst+in+Progress;Threat+Hunter;AI+for+Security;Linux+%7C+SIEM+%7C+Python"/>
-
+  <strong>I start with what could break. I’m learning to build what holds up.</strong>
 </p>
 
 <p align="center">
-<img src="https://github.com/Sriram-87/Sriram-87/blob/main/Animation_For_Image_Elements-ezgif.com-optimize.gif?raw=true" width="550"/>
+  SDET at Broadridge · Growing toward Software & Forward Deployed Engineering
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sriram-87&label=Profile%20Views&color=blue&style=flat"/>
+  <a href="https://www.linkedin.com/in/pavan-kumar-malleboina/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:srrmpavankumar@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/pavanerror/">LeetCode</a>
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+## A little about me
 
-🛡️ SOC enthusiast focused on **Threat Detection & Incident Response**
+My starting point is software quality: testing assumptions, finding edge cases, and understanding why things fail.
 
-🔎 Building **Home SOC Labs (Wazuh + Suricata + pfSense)**
+I’m taking that mindset into software development. I want to work close to users, turn unclear requirements into useful tools, and understand the system well enough to debug it when things go wrong.
 
-🤖 Exploring **AI & Machine Learning for Cybersecurity**
+## Where I’m focusing
 
-⚡ Passionate about **Threat Hunting & Malware Analysis**
+| Foundation | What I’m developing |
+| :--- | :--- |
+| **Python & problem solving** | Clear solutions, data structures, and reasoning about performance |
+| **SQL & databases** | Querying data and understanding how applications store and retrieve it |
+| **Software engineering** | APIs, backend fundamentals, maintainable code, and deployment |
+| **Applied AI — next** | Learning how LLM applications work, then evaluating where they help |
 
-🏆 **Smart India Hackathon 2023 Finalist**
+## On the drawing board
 
-📫 Contact:
-**[srrmpavankumar@gmail.com](mailto:srrmpavankumar@gmail.com)**
+### Customer Support Operations Hub
+**Planned project**
 
----
+A practical question: *How can a support team find the tickets that need attention and understand what happened to them?*
 
-# 🛠️ Security Toolkit
+The first version will focus on ticket creation, status and priority filters, and a database-backed history. The goal is to build a small, understandable application before adding integrations or AI features.
 
-## 🔐 SIEM / Detection
+**What I want the finished project to demonstrate**
 
-<p>
-<img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
-</p>
+- A real workflow with clear requirements.
+- An API and data model that are easy to explain.
+- Tests for failures and edge cases.
+- A runnable demo, setup instructions, and honest design trade-offs.
 
-## 💻 Programming
+<!-- Replace this planned-project section with a repository link, a working demo,
+and verified outcomes when the first version is ready. -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-</p>
+## A milestone
 
-## ⚙️ DevOps / Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,jenkins,kafka,postman"/>
-</p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
-
-## 📊 Data Science / AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-</p>
-
-## 🧪 Automation
-
-<p>
-<img src="https://skillicons.dev/icons?i=selenium"/>
-</p>
-
-## 🐧 Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux"/>
-</p>
+**Smart India Hackathon 2023 — Finalist**
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sriram-87&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram-87&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram-87&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sriram-87&theme=matrix&column=6"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sriram-87&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Sriram-87/Sriram-87/blob/output/github-contribution-grid-snake.svg)
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pavan-kumar-malleboina/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/pavanerror/">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/pavankuamr">
-<img src="https://skillicons.dev/icons?i=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/users/pavankuamr">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
-</a>
-
-</p>
+Interested in useful software and the problems behind it? [Let’s connect.](mailto:srrmpavankumar@gmail.com)
