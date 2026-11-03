@@ -1,61 +1,87 @@
-<h1 align="center">Sree Ram</h1>
+<p align="left"><sub>SOFTWARE · SYSTEMS · REAL-WORLD PROBLEMS</sub></p>
 
-<p align="center">
-  <strong>I start with what could break. I’m learning to build what holds up.</strong>
-</p>
+<h1>Sree Ram.</h1>
 
-<p align="center">
-  SDET at Broadridge · Growing toward Software & Forward Deployed Engineering
-</p>
+<h3>I care about what happens after the happy path.</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-kumar-malleboina/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:srrmpavankumar@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/pavanerror/">LeetCode</a>
-</p>
+Software fails at the edges: an unexpected input, a missing record, a requirement that meant something different to the person using it. My starting point is testing those edges. My next step is building the software around them.
+
+**SDET at Broadridge · Preparing for SWE & Forward Deployed Engineering roles**
+
+[LinkedIn](https://www.linkedin.com/in/pavan-kumar-malleboina/) &nbsp; / &nbsp; [Email](mailto:srrmpavankumar@gmail.com) &nbsp; / &nbsp; [LeetCode](https://leetcode.com/u/pavanerror/)
 
 ---
 
-## A little about me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My starting point is software quality: testing assumptions, finding edge cases, and understanding why things fail.
+<h3>01 / My starting point</h3>
+<p><strong>Software quality at Broadridge.</strong></p>
+<p>Testing assumptions, finding edge cases, and reasoning about failures. I want to carry that discipline into implementation, from the data model to the user-facing workflow.</p>
 
-I’m taking that mindset into software development. I want to work close to users, turn unclear requirements into useful tools, and understand the system well enough to debug it when things go wrong.
+</td>
+<td width="50%" valign="top">
 
-## Where I’m focusing
+<h3>02 / My direction</h3>
+<p><strong>Engineering close to the problem.</strong></p>
+<p>Python and SQL are my current foundations. I’m developing the backend and integration skills to turn a user’s unclear request into a small, useful application.</p>
 
-| Foundation | What I’m developing |
-| :--- | :--- |
-| **Python & problem solving** | Clear solutions, data structures, and reasoning about performance |
-| **SQL & databases** | Querying data and understanding how applications store and retrieve it |
-| **Software engineering** | APIs, backend fundamentals, maintainable code, and deployment |
-| **Applied AI — next** | Learning how LLM applications work, then evaluating where they help |
+</td>
+</tr>
+</table>
 
-## On the drawing board
+## 03 / Project brief
 
 ### Customer Support Operations Hub
-**Planned project**
 
-A practical question: *How can a support team find the tickets that need attention and understand what happened to them?*
+**Stage: planning · First milestone: a working ticket workflow**
 
-The first version will focus on ticket creation, status and priority filters, and a database-backed history. The goal is to build a small, understandable application before adding integrations or AI features.
+> “Which customer needs attention next—and what has already happened?”
 
-**What I want the finished project to demonstrate**
+That is the question this project will address. The first version is deliberately small: create a ticket, find it by status or priority, update it, and retain its history.
 
-- A real workflow with clear requirements.
-- An API and data model that are easy to explain.
-- Tests for failures and edge cases.
-- A runnable demo, setup instructions, and honest design trade-offs.
+| User need | Proposed implementation | What I will verify |
+| :--- | :--- | :--- |
+| Find work that needs attention | Status and priority filters | Combined filters, no matches, invalid values |
+| Follow a ticket from creation to resolution | Stored tickets and an update history | Missing tickets and invalid status changes |
+| Keep work across application restarts | A database-backed API | Saved changes survive a restart |
 
-<!-- Replace this planned-project section with a repository link, a working demo,
-and verified outcomes when the first version is ready. -->
+<details>
+<summary><strong>The decisions behind the first version</strong></summary>
 
-## A milestone
+<br>
+
+**Start with one complete workflow.** Ticket creation, retrieval, and updates need to work together before the application grows.
+
+**Make failures understandable.** Invalid input and missing records should produce useful responses that a caller can act on.
+
+**Make the result inspectable.** The first release should include setup instructions, example requests, tests, and a short explanation of the data model and trade-offs.
+
+**Evaluate AI later.** Once the workflow works, ticket summarization could be explored against concrete examples. It is a future experiment, not part of the current implementation.
+
+</details>
+
+<!-- When the first version ships, replace the planning status with its actual
+release state. Add the real repository and demo URLs, a screenshot, and a
+verified result. Keep proposed capabilities distinct from implemented ones. -->
+
+## 04 / How I approach a problem
+
+**Clarify the outcome.** What does the user need to accomplish, and what would a correct result look like?
+
+**Build the smallest complete solution.** Understand the logic, implement it, and explain the trade-offs.
+
+**Try to break it.** Check the boundaries, the missing data, and the assumptions that made the first attempt seem easy.
+
+## 05 / A milestone
 
 **Smart India Hackathon 2023 — Finalist**
 
 ---
 
-Interested in useful software and the problems behind it? [Let’s connect.](mailto:srrmpavankumar@gmail.com)
+<h3>Let’s talk about the problem you’re trying to solve.</h3>
+
+I’m interested in SWE and FDE opportunities where understanding users and building dependable software belong to the same job.
+
+[srrmpavankumar@gmail.com](mailto:srrmpavankumar@gmail.com) &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/pavan-kumar-malleboina/)
